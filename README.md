@@ -39,3 +39,16 @@ InplaceABN<sup>[[4]](#references)</sup>.
 |**ShuffleNetV2Plus X1.0**|69.0885-72.5255 (**WIP**)|
 
 * S.S.: Single Scale (1024x2048)
+
+## Feature Visualization
+
+<p align="center">
+<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_1.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_1_u.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_2.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_2_u.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_3.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_3_u.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_4.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_4_u.png" />
+</p>
