@@ -43,12 +43,12 @@ InplaceABN<sup>[[4]](#references)</sup>.
 ## Feature Visualization
 
 <p align="center">
-<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_1.png" />
-<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_1_u.png" />
-<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_2.png" />
-<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_2_u.png" />
-<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_3.png" />
-<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_3_u.png" />
-<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_4.png" />
-<img src="https://github.com/ansleliu/LightNetPlusPlus/tree/master/netviz/feat_viz/Figure_4_u.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_1.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_1_u.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_2.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_2_u.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_3.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_3_u.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_4.png" />
+<img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_4_u.png" />
 </p>
