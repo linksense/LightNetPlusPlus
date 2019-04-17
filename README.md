@@ -11,6 +11,7 @@ InplaceABN<sup>[[4]](#references)</sup>.
 Parallel Bottleneck Channel-Spatial Attention Block (PBCSABlock)<sup>[[6]](#references)</sup>+ UnSharp Masking (USM)  + Encoder-Decoder Arch.<sup>[[3]](#references)</sup> + 
 InplaceABN<sup>[[4]](#references)</sup>.
  
+More about **USM(Unsharp Mask)-Operator Block** see Repo: [**SharpPeleeNet**](https://github.com/ansleliu/SharpPeleeNet)
 
 ### Dependencies
 
