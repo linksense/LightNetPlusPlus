@@ -11,7 +11,7 @@ def recursive_glob(rootdir='.', suffix=''):
             for filename in filenames if filename.endswith(suffix)]
 
 
-file_list = recursive_glob(rootdir="/home/liuhuijun/Datasets/Cityscapes/leftImg8bit/deepdrive", suffix='.png')
+file_list = recursive_glob(rootdir="/home/huijun/Datasets/Cityscapes/leftImg8bit/deepdrive", suffix='.png')
 file_list.sort()
 print("> ok !!!")
 list_save = os.path.join("deepdrive.lst")
