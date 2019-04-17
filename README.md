@@ -44,11 +44,7 @@ InplaceABN<sup>[[4]](#references)</sup>.
 
 <p align="center">
 <img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_1.png" />
-<img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_1_u.png" />
 <img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_3.png" />
-<img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_3_u.png" />
 <img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_5.png" />
-<img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_5_u.png" />
 <img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_8.png" />
-<img src="https://github.com/ansleliu/LightNetPlusPlus/blob/master/netviz/feat_viz/Figure_8_u.png" />
 </p>
