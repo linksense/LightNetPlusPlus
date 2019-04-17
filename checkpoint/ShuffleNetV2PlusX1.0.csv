@@ -1,0 +1,13 @@
+
+Challenge,Method
+pixellevel,ShuffleNetV2PlusX1.0
+
+"Class level"
+Metric,Average,road,sidewalk,building,wall,fence,pole,trafficlight,trafficsign,vegetation,terrain,sky,person,rider,car,truck,bus,train,motorcycle,bicycle
+IoU,72.5255,98.2375,84.1342,91.1811,44.4329,53.0592,60.2313,68.5139,74.3167,92.4182,70.3786,94.5867,81.0012,63.8302,94.0755,53.8676,64.9529,55.424,60.9656,72.3778
+iIoU,52.3745,,,,,,,,,,,,63.2079,43.9003,88.9744,35.1995,47.3143,40.8931,40.9286,58.5778
+
+"Category level"
+Metric,Average,flat,nature,object,sky,construction,human,vehicle
+IoU,88.2979,98.3166,91.9699,67.3834,94.5867,91.4595,81.8551,92.5145
+iIoU,75.9559,,,,,,64.7607,87.1512
