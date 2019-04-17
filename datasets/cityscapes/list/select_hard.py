@@ -4,8 +4,8 @@ from PIL import Image
 
 
 if __name__ == "__main__":
-    data_root = "/home/liuhuijun/Datasets/Cityscapes"
-    list_path = "/home/liuhuijun/PycharmProjects/LightNet++/datasets/cityscapes/list/train+.lst"
+    data_root = "/home/huijun/Datasets/Cityscapes"
+    list_path = "/home/huijun/PycharmProjects/LightNet++/datasets/cityscapes/list/train+.lst"
     image_paths = [i_id.strip() for i_id in open("{}".format(list_path))]
 
     list_save = "hard.lst"
