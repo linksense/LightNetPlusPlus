@@ -33,7 +33,7 @@ InplaceABN<sup>[[4]](#references)</sup>.
 
 ### Results on Cityscapes (Pixel-level/Semantic Segmentation)
 
-| Model | mIoU (S.S*) |
+| Model | mIoU (S.S* Mixed Precision) |
 |---|---|
 |**MobileNetV2Plus**|69.0885-72.5255 (**WIP**)|
 |**ShuffleNetV2Plus**|71.5314 (**WIP**)|
