@@ -35,7 +35,7 @@ InplaceABN<sup>[[4]](#references)</sup>.
 
 | Model | mIoU (S.S* Mixed Precision) |
 |---|---|
-|**MobileNetV2Plus**|71.5314 (**WIP**)|
-|**ShuffleNetV2Plus**|69.0885-72.5255 (**WIP**)|
+|**MobileNetV2Plus X1.0**|71.5314 (**WIP**)|
+|**ShuffleNetV2Plus X1.0**|69.0885-72.5255 (**WIP**)|
 
 * S.S.: Single Scale (1024x2048)
