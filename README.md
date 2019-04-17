@@ -13,7 +13,7 @@ InplaceABN<sup>[[4]](#references)</sup>.
  
 More about **USM(Unsharp Mask)-Operator Block** see Repo: [**SharpPeleeNet**](https://github.com/ansleliu/SharpPeleeNet)
 
-### Dependencies
+## Dependencies
 
 - [Python3.6](https://www.python.org/downloads/)  
 - [PyTorch(1.0.1+)](http://pytorch.org)  
