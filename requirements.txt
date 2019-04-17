@@ -1,0 +1,10 @@
+apex
+tqdm
+scipy
+numpy
+imageio
+pillow
+torch>=1.0
+torchvision
+tensorboard
+tensorboardX
