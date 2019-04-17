@@ -36,8 +36,8 @@ More about **USM(Unsharp Mask)-Operator Block** see Repo: [**SharpPeleeNet**](ht
 
 | Model | mIoU (S.S* Mixed Precision) |
 |---|---|
-|**MobileNetV2Plus X1.0**|71.5314 (**WIP**)|
-|**ShuffleNetV2Plus X1.0**|69.0885-72.5255 (**WIP**)|
+|**MobileNetV2Plus X1.0**|[71.5314 (**WIP**)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/MobileNetv2Plus.csv)|
+|**ShuffleNetV2Plus X1.0**|[69.0885-72.5255 (**WIP**)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/ShuffleNetV2PlusX1.0.csv)|
 
 * S.S.: Single Scale (1024x2048)
 
