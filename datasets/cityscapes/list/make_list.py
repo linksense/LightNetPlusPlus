@@ -19,7 +19,7 @@ list_save = os.path.join("deepdrive.lst")
 with open(list_save, 'w') as f:
     for idx, file_path in enumerate(file_list):
         print("> Processing {}".format(str(idx)))
-        save_path = file_path.replace("/home/liuhuijun/Datasets/Cityscapes/", "")
+        save_path = file_path.replace("/home/huijun/Datasets/Cityscapes/", "")
 
         f.write(save_path + os.linesep)
 
