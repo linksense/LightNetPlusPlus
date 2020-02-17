@@ -1,7 +1,12 @@
 # LightNet++
+
+## !!!New Repo!!! ⇒ **[EfficientNet.PyTorch: Concise, Modular, Human-friendly PyTorch implementation of EfficientNet with Pre-trained Weights](https://github.com/ansleliu/EfficientNet.PyTorch)**
+
 This repository contains the code (PyTorch-1.0+, **W.I.P.**) for: "**LightNet++: Boosted Light-weighted Networks for Real-time Semantic Segmentation**" by Huijun Liu.  
 **LightNet++** is an advanced version of **[LightNet](https://github.com/ansleliu/LightNet)**,  which purpose to get more concise model design, 
 smaller models, and better performance.
+
+
 
 - **MobileNetV2Plus**: Modified MobileNetV2 (backbone)<sup>[[1,8]](#references)</sup> + DSASPPInPlaceABNBlock<sup>[[2,3]](#references)</sup> + 
 Parallel Bottleneck Channel-Spatial Attention Block (PBCSABlock)<sup>[[6]](#references)</sup> + UnSharp Masking (USM) + Encoder-Decoder Arch.<sup>[[3]](#references)</sup> + 
