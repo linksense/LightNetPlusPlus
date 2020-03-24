@@ -1,0 +1,13 @@
+
+Challenge,Method
+pixellevel,MixSeg
+
+"Class level"
+Metric,Average,road,sidewalk,building,wall,fence,pole,trafficlight,trafficsign,vegetation,terrain,sky,person,rider,car,truck,bus,train,motorcycle,bicycle
+IoU,72.2321,95.773,79.8222,87.8911,49.5168,52.6645,59.5569,64.0792,71.525,92.3515,64.5779,94.9351,82.0096,62.2325,94.7166,60.6208,75.2332,57.2976,58.0257,69.5804
+iIoU,49.0843,,,,,,,,,,,,63.7341,40.0583,87.7745,31.407,40.2697,35.7292,36.2202,57.4813
+
+"Category level"
+Metric,Average,flat,nature,object,sky,construction,human,vehicle
+IoU,87.7934,96.3633,92.411,66.2049,94.9351,88.4855,82.2894,93.8647
+iIoU,75.175,,,,,,64.8579,85.4922

@@ -7,8 +7,6 @@ This repository contains the code (PyTorch-1.0+, **W.I.P.**) for: "**LightNet++:
 **LightNet++** is an advanced version of **[LightNet](https://github.com/ansleliu/LightNet)**,  which purpose to get more concise model design, 
 smaller models, and better performance.
 
-
-
 - **MobileNetV2Plus**: Modified MobileNetV2 (backbone)<sup>[[1,8]](#references)</sup> + DSASPPInPlaceABNBlock<sup>[[2,3]](#references)</sup> + 
 Parallel Bottleneck Channel-Spatial Attention Block (PBCSABlock)<sup>[[6]](#references)</sup> + UnSharp Masking (USM) + Encoder-Decoder Arch.<sup>[[3]](#references)</sup> + 
 InplaceABN<sup>[[4]](#references)</sup>.
@@ -16,6 +14,8 @@ InplaceABN<sup>[[4]](#references)</sup>.
 - **ShuffleNetV2Plus**: Modified ShuffleNetV2 (backbone)<sup>[[1,8]](#references)</sup> + DSASPPInPlaceABNBlock<sup>[[2,3]](#references)</sup> + 
 Parallel Bottleneck Channel-Spatial Attention Block (PBCSABlock)<sup>[[6]](#references)</sup>+ UnSharp Masking (USM)  + Encoder-Decoder Arch.<sup>[[3]](#references)</sup> + 
 InplaceABN<sup>[[4]](#references)</sup>.
+
+- **MixSeg-MixBiFPN**: Modified MixNet (backbone)<sup>[[1,8]](#references)</sup> + MixBiFPNBlock<sup>[[2,3]](#references)</sup> + Encoder-Decoder Arch.<sup>[[3]](#references)</sup>
  
 More about **USM(Unsharp Mask)-Operator Block** see Repo: [**SharpPeleeNet**](https://github.com/ansleliu/SharpPeleeNet)
 
@@ -44,6 +44,7 @@ More about **USM(Unsharp Mask)-Operator Block** see Repo: [**SharpPeleeNet**](ht
 |---|---|---|
 |**MobileNetV2Plus X1.0**|[71.5314 (**WIP**)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/MobileNetv2Plus.csv)|[cityscapes_mobilenetv2plus_x1.0.pkl (14.3 MB)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/cityscapes_mobilenetv2plus_x1.0.pkl)|
 |**ShuffleNetV2Plus X1.0**|[69.0885-72.5255 (**WIP**)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/ShuffleNetV2PlusX1.0.csv)|[cityscapes_shufflenetv2plus_x1.0.pkl (8.59 MB)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/cityscapes_shufflenetv2plus_x1.0.pkl)|
+|**MixSeg+MixBiFPN  S**|[72.2321 (**WIP**)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/MixSegMixBiFPN_ArchS.csv)|[cityscapes_mixseg_archs_mixbifpn.pkl (16.4 MB)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/cityscapes_mixseg_archs_mixbifpn.pkl)|
 
 * S.S.: Single Scale (1024x2048)
 
