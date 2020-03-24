@@ -44,7 +44,7 @@ More about **USM(Unsharp Mask)-Operator Block** see Repo: [**SharpPeleeNet**](ht
 |---|---|---|
 |**MobileNetV2Plus X1.0**|[71.5314 (**WIP**)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/MobileNetv2Plus.csv)|[cityscapes_mobilenetv2plus_x1.0.pkl (14.3 MB)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/cityscapes_mobilenetv2plus_x1.0.pkl)|
 |**ShuffleNetV2Plus X1.0**|[69.0885-72.5255 (**WIP**)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/ShuffleNetV2PlusX1.0.csv)|[cityscapes_shufflenetv2plus_x1.0.pkl (8.59 MB)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/cityscapes_shufflenetv2plus_x1.0.pkl)|
-|**MixSeg+MixBiFPN  S**|[72.2321 (**WIP**)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/MixSegMixBiFPN_ArchS.csv)|[cityscapes_mixseg_archs_mixbifpn.pkl (16.4 MB)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/cityscapes_mixseg_archs_mixbifpn.pkl)|
+|**MixSeg+MixBiFPN  ArchS**|[72.2321 (**WIP**)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/MixSegMixBiFPN_ArchS.csv)|[cityscapes_mixseg_archs_mixbifpn.pkl (16.4 MB)](https://github.com/ansleliu/LightNetPlusPlus/blob/master/checkpoint/cityscapes_mixseg_archs_mixbifpn.pkl)|
 
 * S.S.: Single Scale (1024x2048)
 
