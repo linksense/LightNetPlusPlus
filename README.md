@@ -15,7 +15,7 @@ InplaceABN<sup>[[4]](#references)</sup>.
 Parallel Bottleneck Channel-Spatial Attention Block (PBCSABlock)<sup>[[6]](#references)</sup>+ UnSharp Masking (USM)  + Encoder-Decoder Arch.<sup>[[3]](#references)</sup> + 
 InplaceABN<sup>[[4]](#references)</sup>.
 
-- **MixSeg-MixBiFPN**: Modified MixNet (backbone)<sup>[[1,8]](#references)</sup> + MixBiFPNBlock<sup>[[2,3]](#references)</sup> + Encoder-Decoder Arch.<sup>[[3]](#references)</sup>
+- [**MixSeg-MixBiFPN**](https://github.com/ansleliu/LightNetPlusPlus/blob/master/models/mixnetseg.py): Modified MixNet (backbone)<sup>[[1,8]](#references)</sup> + MixBiFPNBlock<sup>[[2,3]](#references)</sup> + Encoder-Decoder Arch.<sup>[[3]](#references)</sup>
  
 More about **USM(Unsharp Mask)-Operator Block** see Repo: [**SharpPeleeNet**](https://github.com/ansleliu/SharpPeleeNet)
 
